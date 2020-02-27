@@ -1,4 +1,4 @@
-# qingyu
+# lfs
 lfs.bookln.cn的网页爬虫
 
 理论上可以爬该网站的所有书籍
